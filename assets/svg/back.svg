@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_5886" data-name="Group 5886" transform="translate(-330 -33)">
+    <g id="Rectangle_502" data-name="Rectangle 502" transform="translate(330 33)" fill="rgba(76,134,19,0.13)" stroke="rgba(255,255,255,0.14)" stroke-width="0.8">
+      <rect width="32" height="32" rx="9" stroke="none"/>
+      <rect x="0.4" y="0.4" width="31.2" height="31.2" rx="8.6" fill="none"/>
+    </g>
+    <g id="Arrow_-_Right_2" data-name="Arrow - Right 2" transform="translate(343 56) rotate(-90)">
+      <path id="Stroke_1" data-name="Stroke 1" d="M11.789,0,5.894,5.894,0,0" transform="translate(0.711 0.5)" fill="none" stroke="#4c8613" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
